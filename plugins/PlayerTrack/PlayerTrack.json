@@ -1,0 +1,11 @@
+{
+  "Author": "kalilistic",
+  "Name": "PlayerTrack",
+  "InternalName": "PlayerTrack",
+  "AssemblyVersion": "2.0.1.0",
+  "Description": "playertrack to demonstrate using Dalamud.DrunkenToad",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+  "DalamudApiLevel": 3,
+  "LoadPriority": 0
+}
