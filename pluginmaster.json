@@ -2,7 +2,7 @@
     {
         "Author": "ohhopi",
         "Name": "RaceSwitcheroo",
-        "Description": "Turn any races around you into something else !\n\nUse /rswtich to open settings.",
+        "Description": "Turn any races around you into something else !\n\nUse /rswitch to open settings.",
         "InternalName": "RaceSwitcheroo",
         "AssemblyVersion": "1.1.0.0",
         "RepoUrl": "https://github.com/ohhopi/RaceSwitcheroo",
@@ -18,6 +18,6 @@
         "DownloadLinkTesting": "https://github.com/ohhopi/DalamudPluginRepo/raw/master/plugins/RaceSwitcheroo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ohhopi/DalamudPluginRepo/raw/master/plugins/RaceSwitcheroo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628178629"
+        "LastUpdated": "1628249709"
     }
 ]
