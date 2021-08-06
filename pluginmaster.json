@@ -1,19 +1,23 @@
 [
     {
-        "Author": "kalilistic",
-        "Name": "PlayerTrack",
-        "Description": "Keep track of players you meet.",
-        "InternalName": "PlayerTrack",
-        "AssemblyVersion": "2.0.7.0",
-        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+        "Author": "ohhopi",
+        "Name": "RaceSwitcheroo",
+        "Description": "Turn any races around you into something else !\n\nUse /rswtich to open settings.",
+        "InternalName": "RaceSwitcheroo",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "https://github.com/ohhopi/RaceSwitcheroo",
         "ApplicableVersion": "any",
+        "Tags": [
+            "race",
+            "switcheroo"
+        ],
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkInstall": "https://github.com/ohhopi/DalamudPluginRepo/raw/master/plugins/RaceSwitcheroo/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ohhopi/DalamudPluginRepo/raw/master/plugins/RaceSwitcheroo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ohhopi/DalamudPluginRepo/raw/master/plugins/RaceSwitcheroo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628166065"
+        "LastUpdated": "1628178629"
     }
 ]
