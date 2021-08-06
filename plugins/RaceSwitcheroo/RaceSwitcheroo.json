@@ -3,7 +3,7 @@
   "Name": "RaceSwitcheroo",
   "InternalName": "RaceSwitcheroo",
   "AssemblyVersion": "1.1.0.0",
-  "Description": "Turn any races around you into something else !\n\nUse /rswtich to open settings.",
+  "Description": "Turn any races around you into something else !\n\nUse /rswitch to open settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ohhopi/RaceSwitcheroo",
   "Tags": [
